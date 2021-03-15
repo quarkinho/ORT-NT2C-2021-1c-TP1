@@ -10,4 +10,5 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 
 
 # PARTICIPANTES
-Leandro Galanterni, lgalant
+Leonardo Adamini, LMA10
+leonardoadamini@gmail.com
