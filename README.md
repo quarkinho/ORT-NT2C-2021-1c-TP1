@@ -1,4 +1,4 @@
-Repositorio inicial de la clase | Programación en nuevas tecnologías 2
+﻿Repositorio inicial de la clase | Programación en nuevas tecnologías 2
 
 # CONSIGNA
 
@@ -12,3 +12,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 # PARTICIPANTES
 Leandro Galanterni, lgalant
 Costa Gonzalo, costag96, costagonzalo96@gmail.com
+Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com
+Nicolas Ugarte, NicolasU94
+Federico Pupkiewicz, fedepkz
+Nicolas Bezdolya, nbezdoly
