@@ -11,4 +11,5 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 
 # PARTICIPANTES
 Leandro Galanterni, lgalant
-Matias Picon, matiasgpicon, matiasgpicon@gmail.com
+Matias Picon, matiasgpicon
+
