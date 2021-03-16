@@ -12,3 +12,5 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 # PARTICIPANTES
 Leandro Galanterni, lgalant
 Federico Pupkiewicz, fedepkz
+Nicolas Ugarte, NicolasU94
+
