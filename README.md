@@ -8,7 +8,6 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Editar este archivo README.md y agregar en el siguiente listado su nombre, apellido y usuario github
 - Hacer un Pull Request a la rama principal MASTER.
 
-
 # PARTICIPANTES
 Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
 Leandro Galanterni, lgalant
@@ -18,6 +17,8 @@ Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com
 Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com
 Nicolas Ugarte, NicolasU94
 Federico Pupkiewicz, fedepkz
+Nicolas Bezdolya, nbezdol
+Jerónimo Sanchez Peruga, jsanchezperuga
 Nicolas Bezdolya, nbezdoly
 Mariano Barone, marianobarone
 Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com
