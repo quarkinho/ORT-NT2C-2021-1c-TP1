@@ -18,6 +18,8 @@ by jsanchezperuga
 (Actualizar repo local con fetch y esas cosas, es decir BAJAR CAMBIOS)
 - Hacer un merge inverso del repo remoto a nuestro repo local
 
+Y ahora le hago un cambio a este archivo para subirlo modificado.
+
 
 # PARTICIPANTES
 Leandro Galanterni, lgalant
