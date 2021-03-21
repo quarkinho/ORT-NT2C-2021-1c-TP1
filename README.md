@@ -11,9 +11,12 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 
 # PARTICIPANTES
 Leandro Galanterni, lgalant
+Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com
 Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com
 Nicolas Ugarte, NicolasU94
 Federico Pupkiewicz, fedepkz
 Nicolas Bezdolya, nbezdoly
 Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com
+Matias Picon, matiaspicon
+
 
