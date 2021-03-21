@@ -13,14 +13,14 @@ Leonardo Adamini, LMA10 - leonardoadamini@gmail.com
 Leandro Galanterni, lgalant  \
 Federico Becker, fedebecker \
 Lucas Laino, lukeal90 \
-Costa Gonzalo, costag96, costagonzalo96@gmail.com \ 
-Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com \ 
-Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com \
-Nicolas Ugarte, NicolasU94 \
+Costa Gonzalo, costag96, costagonzalo96@gmail.com    
+Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com  
+Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com  
+Nicolas Ugarte, NicolasU94  
 Federico Pupkiewicz, fedepkz \
 Jerónimo Sanchez Peruga, jsanchezperuga \
-Nicolas Bezdolya, nbezdoly
-Mariano Barone, marianobarone
-Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com
+Nicolas Bezdolya, nbezdoly  
+Mariano Barone, marianobarone  
+Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com  
 Matias Picon, matiaspicon
 
