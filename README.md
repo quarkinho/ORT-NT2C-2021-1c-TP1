@@ -10,6 +10,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 
 
 # PARTICIPANTES
+Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
 Leandro Galanterni, lgalant
 Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com
 Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com
@@ -18,5 +19,4 @@ Federico Pupkiewicz, fedepkz
 Nicolas Bezdolya, nbezdoly
 Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com
 Matias Picon, matiaspicon
-
 
