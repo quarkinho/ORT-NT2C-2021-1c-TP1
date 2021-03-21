@@ -12,6 +12,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 # PARTICIPANTES
 Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
 Leandro Galanterni, lgalant
+Costa Gonzalo, costag96, costagonzalo96@gmail.com
 Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com
 Indira Briggiler, IndiraBriggiler - Mail: ibriggiler@gmail.com
 Nicolas Ugarte, NicolasU94
@@ -20,4 +21,5 @@ Nicolas Bezdolya, nbezdoly
 Mariano Barone, marianobarone
 Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com
 Matias Picon, matiaspicon
+
 
