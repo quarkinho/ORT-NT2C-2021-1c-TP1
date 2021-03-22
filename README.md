@@ -9,7 +9,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 # PARTICIPANTES
-Leandro Galanterni, lgalant
+Leandro Galanterni, lgalant   
 Diego Boyatjian, DiegoBoya  \ 
 Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
 Federico Becker, fedebecker \
