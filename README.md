@@ -9,6 +9,7 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 # PARTICIPANTES
+Leandro Galanterni, lgalant
 Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
 Leandro Galanterni, lgalant  \
 Federico Becker, fedebecker \
@@ -23,4 +24,5 @@ Nicolas Bezdolya, nbezdoly
 Mariano Barone, marianobarone  
 Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com  
 Matias Picon, matiaspicon
+Julian Ricomagno, JulianRicomagno | mail: julianricomagno@gmail.com
 
