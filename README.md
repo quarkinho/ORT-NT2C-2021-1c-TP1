@@ -10,8 +10,8 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 
 # PARTICIPANTES
 Leandro Galanterni, lgalant
+Diego Boyatjian, DiegoBoya  \ 
 Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
-Leandro Galanterni, lgalant  \
 Federico Becker, fedebecker \
 Lucas Laino, lukeal90 \
 Costa Gonzalo, costag96, costagonzalo96@gmail.com    
@@ -23,6 +23,5 @@ Jerónimo Sanchez Peruga, jsanchezperuga \
 Nicolas Bezdolya, nbezdoly  
 Mariano Barone, marianobarone  
 Facundo Cartolano , cartolanofacundo -  cartolanofacundo@gmail.com  
-Matias Picon, matiaspicon
+Matias Picon, matiaspicon   
 Julian Ricomagno, JulianRicomagno | mail: julianricomagno@gmail.com
-
