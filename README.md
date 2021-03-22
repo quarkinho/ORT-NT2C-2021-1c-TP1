@@ -9,10 +9,10 @@ Para iniciar con este proyecto, es necesario que todos tengamos el mismo en nues
 - Hacer un Pull Request a la rama principal MASTER.
 
 # PARTICIPANTES
-Leandro Galanterni, lgalant   
-Diego Boyatjian, DiegoBoya  \ 
-Leonardo Adamini, LMA10 - leonardoadamini@gmail.com  
-Federico Becker, fedebecker \
+Leandro Galanterni, lgalant     
+Diego Boyatjian, DiegoBoya.   
+Leonardo Adamini, LMA10 - leonardoadamini@gmail.com. 
+Federico Becker, fedebecker. 
 Lucas Laino, lukeal90 \
 Costa Gonzalo, costag96, costagonzalo96@gmail.com    
 Maximiliano Zbinden, maxzbinden , maxi.zbinden@gmail.com  
